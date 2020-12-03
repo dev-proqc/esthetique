@@ -64,28 +64,7 @@ label {
 	position: relative;
 	z-index: 999;
 }
-.w3-logo,
-.address,
-.nav-contact-w3ls {
-	width: 33.2%;
-	display: inline-block;
-}
-.nav-contact-w3ls,
-.address {
-	margin-top: 5px;
-}
-.header-bottom-agileits p {
-	color: #fff;
-	font-size: 14px;
-	letter-spacing: 1px;
-	text-align: right;
-}
-.nav-contact-w3ls p span.fa {
-	color: #00a8ff;
-	color: #fff;
-	font-size: 17px;
-	margin-left: 10px;
-}
+
 p.para-y a {
 	color: #ffcc54;
 }
@@ -99,14 +78,7 @@ p.para-y a {
 .w3-logo {
 	position: relative;
 }
-.w3-logo a {
-    color: #ffffff;
-    font-size: 40px;
-    text-decoration: none;
-    letter-spacing: 4px;
-    text-transform: uppercase;
-    display: block;
-}
+
 header {
 	padding: 1.5em 0 .5em;
 	background: rgba(255, 255, 255, 0.07);
