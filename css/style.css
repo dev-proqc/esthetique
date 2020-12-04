@@ -618,6 +618,7 @@ p.para-w3-agile {
 .area-img2,
 .area-img3,
 .area-img4,
+.area-img5,
 .area-right {
 	flex-basis: 50%;
 	-webkit-flex-basis: 50%;
@@ -625,7 +626,8 @@ p.para-w3-agile {
 .area-img1,
 .area-img2,
 .area-img3,
-.area-img4 {
+.area-img4,
+.area-img5{
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -634,7 +636,7 @@ p.para-w3-agile {
 	    min-height: 330px;
 }
 .area-img1 {
-	background: url(../images/2.jpg)no-repeat 0px 0px;
+	background: url(../images/épilation-a-la-cire-saint-hyacinthe-esthétique-vicky-pontbriand.jpg)no-repeat 0px 0px;
 }
 .area-img2 {
 	background: url(../images/4.jpg)no-repeat 0px 0px;
@@ -643,6 +645,9 @@ p.para-w3-agile {
 	background: url(../images/1.jpg)no-repeat 0px 0px;
 }
 .area-img4 {
+	background: url(../images/5.jpg)no-repeat 0px 0px;
+}
+.area-img5 {
 	background: url(../images/5.jpg)no-repeat 0px 0px;
 }
 .area-right {
