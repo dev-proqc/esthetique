@@ -620,8 +620,8 @@ p.para-w3-agile {
 .area-img4,
 .area-img5,
 .area-right {
-	flex-basis: 30%;
-	-webkit-flex-basis: 50%;
+	flex-basis: 60%;
+	-webkit-flex-basis: 60%;
 }
 .area-img1,
 .area-img2,
