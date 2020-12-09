@@ -7,6 +7,10 @@ body {
 	background: #fff;
 }
 
+.area-main {
+    margin: 20px;
+	}
+
 body a {
 	text-decoration: none;
 	transition: 0.5s all;
@@ -2393,10 +2397,6 @@ iframe {
 	.practice-areas,
 	.clients-main {
 		padding: 6em 0;
-	}
-	.practice-areas {
-		padding: 6em 0;
-		margin: 20px;
 	}
 	.contact-form {
 		padding: 6em 4em 6em 7em;
