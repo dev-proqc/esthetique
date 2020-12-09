@@ -10,6 +10,9 @@ body {
 .area-main {
     margin: 20px;
 	}
+.area-main2 {
+    margin: 20px;
+	}
 
 body a {
 	text-decoration: none;
@@ -2548,6 +2551,12 @@ button.btn1 {
 		justify-content: space-between;
 	}
 	.area-main {
+		display: -webkit-flex;
+		display: flex;
+		-webkit-justify-content: space-between;
+		justify-content: space-between;
+	}
+	.area-main2 {
 		display: -webkit-flex;
 		display: flex;
 		-webkit-justify-content: space-between;
